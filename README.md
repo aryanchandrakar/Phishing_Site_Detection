@@ -1,5 +1,5 @@
 # Phishing_Site_Detection
-The next module is of Phishing Detection. 
+This module is based on Phishing Detection. 
 
 The portal allows people to check whether the site they are providing their sensitive data to is secure or not.
 The procedure will be using random forest algorithm. This will act as a supervised classification algorithm. 
